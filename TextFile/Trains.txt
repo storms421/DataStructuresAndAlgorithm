@@ -1,0 +1,7 @@
+10
+1 8107 BNSF 100 Freight Denver
+2 4262 AMTRAK 15 Passenger Chicago
+4 2148 BSNF 150 Freight Memphis
+5 3305 CSX 130 Freight Jackson
+8 8080 AMTRAK 20 Passenger Denver
+9 7029 CSX 140 Freight Texas

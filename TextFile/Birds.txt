@@ -1,0 +1,7 @@
+6
+penguin Bobo 3 15 0
+sootytern Cruiser 2 0 500
+ostrich Oscar 41 1 0
+penguin Oreo 4 17 0
+loon Looney 0 3 4700
+ostrich Max 39 2 0

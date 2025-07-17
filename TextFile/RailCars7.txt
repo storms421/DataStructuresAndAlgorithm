@@ -1,0 +1,12 @@
+11 Coal Denver
+88 Passenger Denver
+33 Autos Texas
+10 Coal Denver
+60 Passenger Denver
+18 Autos Texas
+15 Coal Denver
+57 Passenger Denver
+13 Autos Texas
+80 Passenger Denver
+78 Passenger Denver
+17 Autos Texas
